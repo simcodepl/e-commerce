@@ -1,0 +1,10 @@
+.sign-in-and-sign-up {
+  width: 94vw;
+  display: flex;
+  justify-content: space-between;
+  margin: 30px auto;
+
+  & > * {
+    max-width: 40%;
+  }
+}
